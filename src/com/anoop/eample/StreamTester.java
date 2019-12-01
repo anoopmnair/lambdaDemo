@@ -38,6 +38,11 @@ public class StreamTester {
         return resultMap;
     }
 
+    /**
+     * How is it
+     * @param v
+     * @return
+     */
     private Long findPopulation(List<Country> v) {
         Long count=0l;
         long totalPopulation=0l;
